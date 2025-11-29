@@ -10,7 +10,8 @@ int main(){
             count++;
             x -= 5;
         }
-        cout << x + 1 <<endl;
+        cout << count + 1 <<endl;
     }
     return 0;
 }
+
